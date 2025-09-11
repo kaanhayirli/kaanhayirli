@@ -1,7 +1,7 @@
 # 👋 Merhaba, ben Kaan Hayırlı
 
 💻 Bilgisayar Mühendisliği 4. sınıf öğrencisiyim (KTO Karatay Üniversitesi).  
-🚀 Yazılım geliştirme, veri tabanı yönetimi, mobil uygulama ve oyun geliştirme üzerine çalışıyorum.  
+🚀 Yazılım geliştirme, veri tabanı yönetimi, mobil uygulama üzerine çalışıyorum.  
 🔭 Şu anda **Opak Yazılım** bünyesinde yazılım geliştirici olarak görev alıyorum.  
 
 ---
