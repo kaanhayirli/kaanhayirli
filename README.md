@@ -36,7 +36,7 @@
 ---
 
 ## 💼 Deneyimler
-- **Opak Yazılım** → Yazılım Geliştirici (2024 – Devam)  
+- **Opak Yazılım** → Yazılım Geliştirici (2025 – Devam)  
 - **Konya Bilim Merkezi** → Proje Asistanı (2023 – 2024)  
 - **Meliora Akademi** → Unreal Engine ile 2D Eğitim Oyunları (2024)  
 - **Havelsan Teknoloji Radar (HTR)** → Stajyer – Seri Port İletişim & PHP (2023)  
