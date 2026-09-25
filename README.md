@@ -18,7 +18,7 @@
 - 💼 Şu anda **Ventura Yazılım**'da yazılım geliştirici olarak çalışıyorum
 - 🛠️ Backend, veri tabanı yönetimi ve mobil/masaüstü uygulama geliştirme üzerine odaklanıyorum
 - 📍 Konya, Türkiye
-- ⚡ İlgi alanlarım: gömülü sistemler, seri port haberleşmesi, oyun geliştirme
+- ⚡ İlgi alanlarım: veri tabanı yönetimi, mobil uygulamalar
 
 ---
 
