@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Kaan+%F0%9F%91%8B;Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici+%40+Opak+Yaz%C4%B1l%C4%B1m;.NET+%7C+React+%7C+Python+%7C+Flutter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+Kaan+%F0%9F%91%8B;Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici+%40+Ventura+Yaz%C4%B1l%C4%B1m;.NET+%7C+React+%7C+Python+%7C+Flutter" alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 ### 🧭 Hakkımda
 
 - 🎓 **KTO Karatay Üniversitesi** — Bilgisayar Mühendisliği, 4. sınıf
-- 💼 Şu anda **Opak Yazılım**'da yazılım geliştirici olarak çalışıyorum
+- 💼 Şu anda **Ventura Yazılım**'da yazılım geliştirici olarak çalışıyorum
 - 🛠️ Backend, veri tabanı yönetimi ve mobil/masaüstü uygulama geliştirme üzerine odaklanıyorum
 - 📍 Konya, Türkiye
 - ⚡ İlgi alanlarım: gömülü sistemler, seri port haberleşmesi, oyun geliştirme
@@ -74,7 +74,8 @@
 
 | Şirket | Rol | Dönem |
 |---|---|---|
-| **Opak Yazılım** | Yazılım Geliştirici | 2025 – devam ediyor |
+| **Ventura Yazılım** | Yazılım Geliştirici | 2026 – devam ediyor |
+| **Opak Yazılım** | Yazılım Geliştirici | 2025 – 2026 |
 | **Konya Bilim Merkezi** | Proje Asistanı | 2023 – 2024 |
 | **Meliora Akademi** | Unreal Engine ile 2D Eğitim Oyunları | 2024 |
 | **Havelsan Teknoloji Radar (HTR)** | Stajyer — Seri Port İletişim & PHP | 2023 |
