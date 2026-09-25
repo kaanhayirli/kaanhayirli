@@ -86,17 +86,7 @@
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaanhayirli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kaan'ın GitHub İstatistikleri" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaanhayirli&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanhayirli&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" height="165"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaanhayirli&theme=tokyo-night&hide_border=true&height=165" alt="Katkı Grafiği" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaanhayirli&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=kaanhayirli&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 ---
