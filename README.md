@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
 </p>
@@ -46,25 +45,10 @@
 
 ### 📂 Öne Çıkan Projeler
 
-<p align="left">
-  <a href="https://github.com/kaanhayirli/WinFormsUserManagement">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaanhayirli&repo=WinFormsUserManagement&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/kaanhayirli/PHP-Serial-Port-Communication">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaanhayirli&repo=PHP-Serial-Port-Communication&theme=tokyonight" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/kaanhayirli/OOP-ZooAutomation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaanhayirli&repo=OOP-ZooAutomation&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/kaanhayirli/two-player-snake-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaanhayirli&repo=two-player-snake-game&theme=tokyonight" />
-  </a>
-</p>
-
-- 📡 **PHP Seri Port Haberleşmesi** → SX126x LoRa çipleriyle RF üzerinden veri aktarımı, PHP/JS/Python tabanlı web arayüzü
-- 🖥️ **WinForms Kullanıcı Yönetimi** → SQL Server entegre kullanıcı/fatura takip masaüstü uygulaması
+- 📡 **[PHP Seri Port Haberleşmesi](https://github.com/kaanhayirli/PHP-Serial-Port-Communication)** → SX126x LoRa çipleriyle RF üzerinden veri aktarımı, PHP/JS/Python tabanlı web arayüzü
+- 🖥️ **[WinForms Kullanıcı Yönetimi](https://github.com/kaanhayirli/WinFormsUserManagement)** → SQL Server entegre kullanıcı/fatura takip masaüstü uygulaması
+- 🐍 **[İki Kişilik Yılan Oyunu](https://github.com/kaanhayirli/two-player-snake-game)** → Python ile geliştirilmiş iki oyunculu klasik yılan oyunu
+- 🦁 **[OOP Hayvanat Bahçesi Otomasyonu](https://github.com/kaanhayirli/OOP-ZooAutomation)** → C# ile nesne yönelimli programlama prensipleriyle otomasyon uygulaması
 - 🎮 **Unreal Engine ile Eğitici Oyunlar** → Startup için 2D eğitim oyunu geliştirme
 - 🤖 **Labirent Çözen Robot** → Raspberry Pi + A* algoritmasıyla yol bulma
 
